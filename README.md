@@ -4,55 +4,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Resume</title>
+    <title>Your Name - Business Analyst Resume</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
     <header>
         <h1>Your Name</h1>
-        <p>Your Job Title</p>
-        <p>Contact Information: email@example.com | (123) 456-7890</p>
+        <p>Business Analyst</p>
+        <p>Email: email@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
     </header>
 
-    <section>
+    <section class="summary">
         <h2>Summary</h2>
-        <p>A brief summary of your professional background and skills. This section should highlight your key qualifications and what you bring to potential employers.</p>
+        <p>Detail-oriented Business Analyst with over 5 years of experience in data analysis, project management, and stakeholder engagement. Proven track record of delivering actionable insights to drive business growth.</p>
     </section>
 
-    <section>
+    <section class="education">
         <h2>Education</h2>
         <ul>
-            <li>
-                <strong>Degree</strong>, University Name, Year
-            </li>
-            <li>
-                <strong>Certification</strong>, Institution Name, Year
-            </li>
+            <li><strong>Bachelor of Science in Business Administration</strong>, University Name, Year</li>
+            <li><strong>Certified Business Analysis Professional (CBAP)</strong>, Year</li>
         </ul>
     </section>
 
-    <section>
+    <section class="experience">
         <h2>Work Experience</h2>
         <ul>
             <li>
-                <strong>Job Title</strong>, Company Name, Year - Year
-                <p>Responsibilities and achievements in this role. Describe your key contributions and any notable projects.</p>
+                <strong>Business Analyst</strong>, Company Name, Year - Present
+                <p>Key responsibilities and achievements in this role. Focus on data analysis, reporting, and stakeholder communication.</p>
             </li>
             <li>
-                <strong>Job Title</strong>, Company Name, Year - Year
-                <p>Responsibilities and achievements in this role. Highlight your skills and accomplishments.</p>
+                <strong>Junior Business Analyst</strong>, Company Name, Year - Year
+                <p>Assisted in gathering requirements, conducting market research, and supporting project management activities.</p>
             </li>
         </ul>
     </section>
 
-    <section>
+    <section class="skills">
         <h2>Skills</h2>
         <ul>
-            <li>Skill 1</li>
-            <li>Skill 2</li>
-            <li>Skill 3</li>
-            <li>Skill 4</li>
-            <li>Skill 5</li>
+            <li>Data Analysis</li>
+            <li>SQL & Database Management</li>
+            <li>Business Intelligence Tools (e.g., Tableau, Power BI)</li>
+            <li>Project Management</li>
+            <li>Stakeholder Engagement</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Project Title</strong> - Brief description of the project and your role in it.</li>
+            <li><strong>Project Title</strong> - Brief description of the project and your role in it.</li>
         </ul>
     </section>
 
